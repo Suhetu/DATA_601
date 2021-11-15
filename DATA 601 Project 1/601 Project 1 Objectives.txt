@@ -1,0 +1,17 @@
+1. Yearly total generation
+2. Average monthly generation avg(each year)
+3. Sector wise yearly generation
+4. Sector wise monthly generation avg(each year)
+5. Compare generation sector wise
+6. Yearly Imports
+7. Yearly Exports
+8. Yearly Net Imports
+9. Yearly Transmission and Distribution Losses Unaccounted for
+10. Yearly Retail Sales
+11. Yearly Direct Use
+12. Yearly End use total
+
+13. Which years showed abnormal generation/consumption?
+14. Relation to the Oil Crisis
+15. i) Compare 2021 Feb Electricity crisis
+      ii) Try to get logical answer from population comparision
